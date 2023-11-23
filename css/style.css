@@ -1,0 +1,115 @@
+.header{
+    width: 100%;
+    background-color: #fff;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 997;
+}
+
+.container{
+    width: 100%;
+    padding-right: 10px;
+    padding: left 10px;
+}
+
+.menu-align{
+    align-items: center;
+    margin-top: 20px;
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -10px;
+    margin-left: 10px;
+}
+
+.main-menu{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-top: -35px;
+}
+
+.nav-menu li{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    float: right;
+    margin-right: 10px;
+    position: relative;
+}
+
+.sect-gap{
+    padding-top: 50px;
+    padding-right: 0;
+    padding-left: 0px;
+}
+
+.events-area{
+    display: flex;
+    justify-content: center;
+}
+
+.events-area-container{
+    display: flex;
+    flex-direction: row;
+    width: 65%;
+    align-self: center;
+}
+
+.events-area .events-area-container .events-menu-content .title{
+    padding-left: 15px;
+}
+
+.popular-courses-section-align{
+    justify-content: center;
+}
+
+.popular-courses-menu-content{
+    padding-bottom: 40px;
+}
+
+.popular-courses-section-align .popular-courses-menu-content .title{
+    text-align: center;
+}
+
+.site-footer {
+    background-color: #fefeff;
+    padding: 22.2px 0 10px;
+    font-size: 15px;
+    line-height: 24px;
+    color: #737373;
+    border-radius: 6px;
+    box-shadow: 0 1px 5px rgba(243, 242, 242, 0.5);
+}
+.site-footer {
+    height: 50px;
+    margin-top: 2px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(255, 250, 250);
+    color: white;
+}
+.site-footer .footer-menu{
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.main-container{
+    padding-bottom: 40px;
+    height: auto;
+    margin-top: 2px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(255, 250, 250);
+    color: white;
+    color: #737373;
+    border-radius: 6px;
+    box-shadow: 0 1px 5px rgba(212, 209, 209, 0.5);
+    padding: 22.2px 0 10px;
+
+}
