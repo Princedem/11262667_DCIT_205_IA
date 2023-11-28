@@ -1,8 +1,6 @@
-# DCIT_205_IA7
-
+# DCIT_205_IA
 
 ## Introduction
-
 An Alternative Version of the UGCSD Website. 
 ## Setup
 
@@ -15,7 +13,7 @@ Follow these steps to clone repository:
 * Open the project folder in your code editor of choice.
 * To view the website, open the index.html file in your browser or use a Live server extension.
 
-
+## Author
 
 Ayertey Prince Tetteh - 11262667
 ## Screenshots
